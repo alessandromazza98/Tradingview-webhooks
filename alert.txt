@@ -1,0 +1,11 @@
+{
+    "passphrase": "abc123",
+    "exchange": "BINANCE",
+    "ticker": "BTCUSDT",
+    "reduce_only": {{strategy.order.alert_message}},
+    "strategy":
+    {
+        "order_action": {{strategy.order.action}},
+        "order_contracts": {{strategy.order.contracts}}
+    }
+}
